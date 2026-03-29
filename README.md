@@ -1,4 +1,4 @@
-# store-manager
+# Inventory Management System
 
 A microservices-based e-commerce backend built with Spring Boot, featuring service discovery, API gateway, event-driven communication, and containerized infrastructure.
 
